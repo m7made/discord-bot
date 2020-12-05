@@ -1,0 +1,20 @@
+const Sudhan = {
+  languages: ["JavaScript", "HTML", "CSS", "React.JS"], //And so many
+  favoriteNumber: 6, //I like this number :)
+  team: [
+    {
+      name: "GreenTree",
+      url: "https://GreenTree.cf"
+    },
+
+    {
+      name: "Pikacore",
+      url: "https://pikacore.cf"
+    },
+
+    {
+      name: "TeamDonut",
+      url: "https://teamdonut.tk"
+    }
+  ]
+}; //I am a Object. UwU
